@@ -1,2 +1,2 @@
 # TFM_CustomerSegmentation
-Proyect in construction
+Project in construction
